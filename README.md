@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Tiwary</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashtiwary12&label=Profile%20views&color=0e75b6&style=flat" alt="suyashtiwary12" /> </p>
+
 
 - 📫 How to reach me **Suyash.studyhard@gmail.com**
 
