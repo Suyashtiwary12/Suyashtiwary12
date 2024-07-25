@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyash Tiwary</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-![image](https://github.com/user-attachments/assets/5ef33a6f-f3f8-4aff-af0b-1f54869414f3)
 
 - 📫 How to reach me **Suyash.studyhard@gmail.com**
 
